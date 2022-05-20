@@ -1,0 +1,5 @@
+lcd_n1202_stm32f.c:7:6:lcdn1202_gpio_init	32	static
+lcd_n1202_stm32f.c:25:6:lcdn1202_9bsend	24	static
+lcd_n1202_stm32f.c:43:6:lcdn1202_clock1	8	static,ignoring_inline_asm
+lcd_n1202_stm32f.c:50:6:lcdn1202_blon	8	static
+lcd_n1202_stm32f.c:55:6:lcdn1202_bloff	8	static

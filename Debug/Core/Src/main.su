@@ -1,0 +1,10 @@
+main.c:74:5:main	8	static
+main.c:150:6:SystemClock_Config	80	static
+main.c:181:6:drawInt	8	static
+main.c:198:6:drawAlphanum	8	static
+main.c:209:6:drawPunct	8	static
+main.c:216:6:drawFrame	16	static
+main.c:246:6:drawArrow	16	static
+main.c:263:6:drawBytes	16	static
+main.c:286:6:drawLoadingBar	16	static
+main.c:306:6:Error_Handler	8	static,ignoring_inline_asm
